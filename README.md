@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align=”center”> It-s Taylan</h1>
 
-<!--
-**emdidar/emdidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align=”center”> Ssorry i’m busy saving the dinosaur generation :skull_and_crossbones: keep going please :point_down: </h3>
+<p align=”center”>
+<img src=”https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width=”500" height=”150" />
+</p>
 
-Here are some ideas to get you started:
+<p align=”center”>
+<a href= “http://www.twitter.com/emdidar">
+<img align=”center” src=”https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" />
+</a>
+<a href= “https://www.linkedin.com/in/emdidar/">
+<img align=”center” src=”https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p><p align=”center”>
+<img src=”https://komarev.com/ghpvc/?username=TaylanCann&label=stalkers&color=grey" />
+</p>
+
+
+<h3 align=”center”> look mom i can write </h3>
+<p align=”center”>
+<img src=”https://github-readme-stats.vercel.app/api/top-langs/?username=taylancann&layout=compact" />
+</p>
