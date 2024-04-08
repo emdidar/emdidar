@@ -1,4 +1,3 @@
--![Mohammad Didarul Alam](https://raw.githubusercontent.com/emdidar/emdidar/master/header.png)
 
 ### Hi there 👋
 
@@ -10,10 +9,6 @@ I am **Mohammad Didarul Alam**, a seasoned software developer with 7+ years expe
 
 #### Frameworks & Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> <code><img height="20" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png"></code>
-
-#### Stats:
-![Mohammad Didarul Alam's Stats](https://github-readme-stats-emdidar.vercel.app/api?username=emdidar&show_icons=true&count_private=true) ![Mohammad Didarul Alam's Top Langs](https://github-readme-stats-emdidar.vercel.app/api/top-langs/?username=emdidar&layout=compact)  
-
 
 <!--
 **emdidar/emdidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
