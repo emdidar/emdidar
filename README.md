@@ -15,7 +15,6 @@ I am **Mohammad Didarul Alam**, a seasoned software developer with 7+ years expe
 ![emdidar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emdidar&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 #### Contact Info:
-**Mobile: 01829663628**
 **Email: emdidar@gmail.com**
 
 <!--
