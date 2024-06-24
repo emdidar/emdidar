@@ -1,5 +1,7 @@
 <h2 align=center>
-  <a href="https://facebook.com/zahirkhan"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=white&center=true&width=435&lines=I+am+Mohammad+Didarul+Alam;A+Fullstack+Web+and+.NET+Developer;A+Content+Creator;Always+Exploring+New+Technologies" alt="Typing SVG" /></a>
+  
+  <a href="https://facebook.com/emdidar"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=white&center=true&width=435&lines=I+am+Mohammad+Didarul+Alam;A+Fullstack+Web+and+.NET+Developer;A+Content+Creator;Always+Exploring+New+Technologies" alt="Typing SVG" /></a>
+  
 </h2>
 
 ### Hi there 👋
@@ -19,6 +21,7 @@ I am **Mohammad Didarul Alam**, a seasoned software developer with 7+ years expe
 
 #### Contact Info:
 **Email: emdidar@gmail.com**
+**mobile: 01829663628**
 
 <!--
 **emdidar/emdidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
