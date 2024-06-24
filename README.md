@@ -1,6 +1,6 @@
 <h2 align=center>
   
-  <a href="https://facebook.com/emdidar"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=white&center=true&width=435&lines=I+am+Mohammad+Didarul+Alam;A+Fullstack+Web+and+.NET+Developer;A+Content+Creator;Always+Exploring+New+Technologies" alt="Typing SVG" /></a>
+  <a href="https://facebook.com/emdidarbgc"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=white&center=true&width=435&lines=I+am+Mohammad+Didarul+Alam;A+Fullstack+Web+and+.NET+Developer;A+Content+Creator;Always+Exploring+New+Technologies" alt="Typing SVG" /></a>
   
 </h2>
 
@@ -20,7 +20,7 @@ I am **Mohammad Didarul Alam**, a seasoned software developer with 7+ years expe
 ![emdidar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emdidar&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 #### Contact Info:
-**Email: emdidar@gmail.com**
+**Email: emdidar@gmail.com** 
 **mobile: 01829663628**
 
 <!--
