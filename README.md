@@ -1,3 +1,6 @@
+<h2 align=center>
+  <a href="https://facebook.com/zahirkhan"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=white&center=true&width=435&lines=I+am+Mohammad+Didarul+Alam;A+Fullstack+Web+and+.NET+Developer;A+Content+Creator;Always+Exploring+New+Technologies" alt="Typing SVG" /></a>
+</h2>
 
 ### Hi there 👋
 
